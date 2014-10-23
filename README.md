@@ -28,5 +28,5 @@ WindowsMonitor
 - 运行在可访问PCMonitor的同一网络的任一台电脑。可使用界面完成获取文件、查看桌面、发送消息等远程桌面的功能。
 
 控制端下载: 
-[链接一](https://github.com/Yhzhtk/PCContorl/blob/master/PCContorl/PCContorl/bin/Debug/PCContorl.exe?raw=true) | 
+[链接一](https://github.com/Yhzhtk/WindowsMonitor/blob/master/PCContorl/PCContorl/bin/Debug/PCContorl.exe?raw=true) | 
 [链接二](https://raw.githubusercontent.com/Yhzhtk/WindowsMonitor/master/PCContorl/PCContorl/bin/Debug/PCContorl.exe)
