@@ -1,0 +1,10 @@
+F:\C#\PCContorl\PCContorl\bin\Debug\PCContorl.exe
+F:\C#\PCContorl\PCContorl\bin\Debug\PCContorl.pdb
+F:\C#\PCContorl\PCContorl\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.PCControl.resources
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.Properties.Resources.resources
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.csproj.GenerateResource.Cache
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.exe
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.pdb
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.HelpForm.resources
+F:\C#\PCContorl\PCContorl\obj\Debug\PCContorl.TaskForm.resources
